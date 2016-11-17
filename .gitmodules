@@ -1,0 +1,3 @@
+[submodule "ABLibs"]
+	path = ABLibs
+	url = https://github.com/allblue-pl/android-ab-libs
